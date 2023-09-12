@@ -1,0 +1,7 @@
+layout为一级路由
+info-contain 如省馆动态这类的公共小组件（样式都一样的）
+userFooter和userHeader公共的头和底部（都写在layout里）
+page文件夹下的commonpage为二级路由的公共组件
+homeColumn为在首页没有显示出来的二级路由
+其它6个文件分别对应的是导航部分的6个目录
+page文件夹下的components是三级路由，里面的commonMorePage是点击更多后跳转的公共组件（‘更多’在info-contain里）
